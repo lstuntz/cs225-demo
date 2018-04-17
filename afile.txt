@@ -1,2 +1,3 @@
 This is a new file!
+Testing dealing with merge conflicts
 well now I suppose it is kinda old.
