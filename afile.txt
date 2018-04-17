@@ -1,4 +1,4 @@
 This is a new file!
-Testing dealing with merge conflicts
+Testing (mwah hahahaha) dealing with merge conflicts
 well now I suppose it is kinda old.
 adding in a merge conflict just to play devil's advocate
